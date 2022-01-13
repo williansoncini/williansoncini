@@ -1,0 +1,57 @@
+.content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.object-scale-animation {
+    transition: all 300ms ease-in-out;
+}
+
+.object-scale-animation:hover{
+    padding: 20px;
+    transform: scale(1.2);
+}
+
+
+.container-scale-animation {
+    transition: all 300ms ease-in-out;
+}
+
+.container-scale-animation:hover{
+    transform: scale(1.2);
+}
+
+.container-languages{
+    margin: 20px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.language-animations{
+    transition: all 300ms ease-in-out;
+}
+
+.language-animations:hover{
+    padding: 0px 10px;
+    transform: scale(1.5);
+}
+
+.social-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 300ms ease-in-out;
+}
+
+.social-container:hover{
+    padding: 10px 10px 0px 10px;
+    transform: scale(1.2);
+}
+
+.social-container a {
+    margin: 10px;
+}
