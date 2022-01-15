@@ -1,17 +1,10 @@
 
-
-
-<span style='color: red'> [node1] </span>
-<span style='color: #8ad414'> (local) </span>
-<span style='color: #729fcf'> server@ip_address </span>
-<span style='color: #9d7f98'>~</span>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23FFFFFF&size=18&multiline=true&lines=%24+echo+%22Hello+world!%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23FFFFFF&size=18&multiline=true&height=100&lines=%5Bnode1%5D+(local)+willian%40127.0.0.1+~+;%24+echo+%22Hello+world!%22;Hello+world!;%24)](https://git.io/typing-svg)
 
 <div>
   <a href="https://github.com/williansoncini"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williansoncini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williansoncini&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=williansoncini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williansoncini&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div class='container-languages'><br>
