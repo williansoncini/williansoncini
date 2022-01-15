@@ -3,15 +3,11 @@
 
 <link rel="stylesheet" href="static/css/base.css">
 
-<div style='background: black;'>
-
-<span style=' color: #c90a00; font-size:18px'> [node1] </span>
-<span style=' color: #8ad414; font-size:18px'> (local) </span>
-<span style=' color: #729fcf; font-size:18px'> server@ip_address </span>
-<span style=' color: #9d7f98; font-size:18px'>~</span>
+<span style='color: #c90a00; font-size:18px'> [node1] </span>
+<span style='color: #8ad414; font-size:18px'> (local) </span>
+<span style='color: #729fcf; font-size:18px'> server@ip_address </span>
+<span style='color: #9d7f98; font-size:18px'>~</span>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23FFFFFF&size=18&multiline=true&lines=%24+echo+%22Hello+world!%22)](https://git.io/typing-svg)
-
-</div>
 
 <div>
   <a href="https://github.com/williansoncini"> 
