@@ -1,12 +1,11 @@
 
 
 
-<link rel="stylesheet" href="static/css/base.css">
-
 <span style='color: #c90a00; font-size:18px'> [node1] </span>
 <span style='color: #8ad414; font-size:18px'> (local) </span>
 <span style='color: #729fcf; font-size:18px'> server@ip_address </span>
 <span style='color: #9d7f98; font-size:18px'>~</span>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23FFFFFF&size=18&multiline=true&lines=%24+echo+%22Hello+world!%22)](https://git.io/typing-svg)
 
 <div>
@@ -28,10 +27,6 @@
     <a href="https://www.linkedin.com/in/willian-soncini-783b18160" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<div >
 
-  ![Snake animation](https://raw.githubusercontent.com/williansoncini/williansoncini/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/williansoncini/williansoncini/output/github-contribution-grid-snake.svg)
 
-</div>
-
-</link>
