@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23FFFFFF&size=18&multiline=true&height=100&lines=%5Bnode1%5D+(local)+willian%40127.0.0.1+~+;%24+echo+%22Welcome!!!+%F0%9F%9A%80%22;Welcome!!!+%F0%9F%9A%80;%24)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%238AD414&size=18&multiline=true&height=100&lines=%5Bnode1%5D+(local)+willian%40127.0.0.1+~+;%24+echo+%22Welcome!!!+%F0%9F%9A%80%22;Welcome!!!+%F0%9F%9A%80;%24)](https://git.io/typing-svg)
 
 <div>
 <h1 align='center'>Sobre mim 💬</h1>
