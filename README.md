@@ -3,15 +3,13 @@
 
 <link rel="stylesheet" href="static/css/base.css">
 
-<div style='background-color: black;'>
+<div style='background: black;'>
 
-<span class='node-color'> [node1] </span>
-<span class='local-color'> (local) </span>
-<span class='server-ip-color'> server@ip_address </span>
-<span>~</span>
-
+<span style=' color: #c90a00; font-size:18px'> [node1] </span>
+<span style=' color: #8ad414; font-size:18px'> (local) </span>
+<span style=' color: #729fcf; font-size:18px'> server@ip_address </span>
+<span style=' color: #9d7f98; font-size:18px'>~</span>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23FFFFFF&size=18&multiline=true&lines=%24+echo+%22Hello+world!%22)](https://git.io/typing-svg)
-
 
 </div>
 
@@ -22,11 +20,11 @@
 </div>
 
 <div class='container-languages'><br>
-  <img class='language-icons' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img class='language-icons' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img class='language-icons' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img class='language-icons' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-  <img class='language-icons' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+  <img height=40 width=40 style='margin:10px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img height=40 width=40 style='margin:10px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img height=40 width=40 style='margin:10px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img height=40 width=40 style='margin:10px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+  <img height=40 width=40 style='margin:10px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
 </div>
 
 <div class='social-container'>
