@@ -1,18 +1,32 @@
 
+
+
 <link rel="stylesheet" href="static/css/base.css">
+
+<div style='background-color: black;'>
+
+<span class='node-color'> [node1] </span>
+<span class='local-color'> (local) </span>
+<span class='server-ip-color'> server@ip_address </span>
+<span>~</span>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23FFFFFF&size=18&multiline=true&lines=%24+echo+%22Hello+world!%22)](https://git.io/typing-svg)
+
+
+</div>
 
 <div>
   <a href="https://github.com/williansoncini"> 
-  <img class='object-scale-animation' height="180em" src="https://github-readme-stats.vercel.app/api?username=williansoncini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img class='object-scale-animation' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williansoncini&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williansoncini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williansoncini&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div class='container-languages'><br>
-  <img class='language-animations' height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img class='language-animations' height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img class='language-animations' height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img class='language-animations' height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-  <img class='language-animations' height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+  <img class='language-icons' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img class='language-icons' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img class='language-icons' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img class='language-icons' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+  <img class='language-icons' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
 </div>
 
 <div class='social-container'>
