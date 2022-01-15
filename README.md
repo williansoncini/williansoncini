@@ -14,8 +14,6 @@
   <li>🌐 Animes</li>
 </ul>
 </div>
-<br>
-
 <h1 align='center'>Base de conhecimentos 📚</h1>
 <img align='right' height=200 src="https://media.giphy.com/media/uIWTuwraEnRfblk36e/giphy.gif">
 <ul>
@@ -29,7 +27,6 @@
   <li>🐈 Git</li>
   <li>🗄 DDD</li>
 </ul>
-<br>
 <h1 align='center'>Entre em contato 📨</h1>
 <div align='center'>
     <!-- <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a> -->
