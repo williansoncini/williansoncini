@@ -26,6 +26,8 @@
   <li>🟩 Node</li>
   <li>🐈 Git</li>
   <li>🗄 DDD</li>
+  <li>🎲 Data warehouse</li>
+  <li>💻 Vagrant</li>
 </ul>
 <h1 align='center'>Entre em contato 📨</h1>
 <div align='center'>
