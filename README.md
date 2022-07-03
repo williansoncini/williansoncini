@@ -45,6 +45,10 @@
   - ❤ - GoogleCloud
   - 📄 - Graylog
 
+<h1 align='center'>Notas de estudo 📄</h1>
+
+- https://notas.williansoncini.com/
+
 <h1 align='center'>Bora conversar? 📨</h1>
 <div align='center'>
     <a href="https://www.linkedin.com/in/willian-soncini-783b18160" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
