@@ -1,37 +1,52 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%238AD414&size=18&multiline=true&height=100&lines=%5Bnode1%5D+(local)+willian%40127.0.0.1+~+;%24+echo+%22Welcome!!!+%F0%9F%9A%80%22;Welcome!!!+%F0%9F%9A%80;%24)](https://git.io/typing-svg)
 
-<div>
+
 <h1 align='center'>Sobre mim 💬</h1>
-<img align='right' height=150 src="https://media.giphy.com/media/aNeyXVMrED6fUO1Exy/giphy.gif" alt="">
-<ul>
-  <li>🐈 Adoro animais!</li>
-  <li>🥦 Go vegan!</li>
-  <li>🚀 Foco no progresso</li>
-  <li>💪🏻 Bora pra academia</li>
-  <li>📚 Um livro no almoço e outro na janta</li>
-  <li>📈 Motivação</li>
-  <li>🌐 Animes</li>
-</ul>
-</div>
+<img align='right' height=150 src="https://media.giphy.com/media/aNeyXVMrED6fUO1Exy/giphy.gif" alt="Happy luffy"/>
+
+- 🐈 Adoro animais!
+- 🥦 Go vegan!
+- 🚀 Foco no progresso
+- 💪🏻 Bora pra academia
+- 📚 Chama nos estudos
+- 📈 Motivação
+- 🌐 Animes
+
 <h1 align='center'>Base de conhecimentos 📚</h1>
-<img align='right' height=200 src="https://media.giphy.com/media/uIWTuwraEnRfblk36e/giphy.gif">
-<ul>
-  <li>👾 Linux</li>
-  <li>🐳 Docker</li>
-  <li>🐍 Python</li>
-  <li>🐍 Django</li>
-  <li>⚡ Javascript</li>
-  <li>🌐 React</li>
-  <li>🟩 Node</li>
-  <li>🐈 Git</li>
-  <li>🗄 DDD</li>
-  <li>🎲 Data warehouse</li>
-  <li>💻 Vagrant</li>
-</ul>
-<h1 align='center'>Entre em contato 📨</h1>
+<img align='right' src="https://media.giphy.com/media/H48YKEw3fXrcvIF2xE/giphy.gif"/>
+
+- 👾 - Linux 
+  - 💻 - Shell
+- 🐍 - Python
+  - 🐍 - Django
+  - 🐍 - FasApi
+- 🚀 - Javascript
+  - 🚀 - TypeScript
+  - 🌐 - React
+  - 🟩 - Node
+    - 🚈 - Express 
+  - 🤡 - Jest
+- 🔄 - Git
+- 🐱‍🏍 - Github
+- 🏦 - Arquitetura
+  - 🧊 - SOLID
+  - 📄 - Design patterns
+  - 🗄 - DDD - Domain Driven Design
+- 🤺 - UX - User Experience
+- 🎲 - SQL
+- 🎲 - Data warehouse
+- 🐱‍👤 - Devops - Acho que a maioria entraria aqui :3
+  - 🐳 - Docker
+  - 💻 - Vagrant
+  - 📊 - Grafana
+  - 🐙 - Kubernets
+  - 🐂 - Rancher 
+  - ❤ - GoogleCloud
+  - 📄 - Graylog
+
+<h1 align='center'>Bora conversar? 📨</h1>
 <div align='center'>
-    <!-- <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a> -->
     <a href="https://www.linkedin.com/in/willian-soncini-783b18160" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <br>
