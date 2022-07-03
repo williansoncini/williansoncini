@@ -47,7 +47,7 @@
 
 <h1 align='center'>Notas de estudo 📄</h1>
 
-- https://notas.williansoncini.com/
+<a href="https://notas.williansoncini.com/" target="_blank"> https://notas.williansoncini.com/ </a>
 
 <h1 align='center'>Bora conversar? 📨</h1>
 <div align='center'>
