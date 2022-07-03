@@ -7,11 +7,11 @@
 
 - 🐈 Adoro animais!
 - 🥦 Go vegan!
-- 🚀 Foco no progresso
-- 💪🏻 Bora pra academia
-- 📚 Chama nos estudos
-- 📈 Motivação
-- 🌐 Animes
+- 🚀 Foco no progresso!!!!
+- 💪🏻 Bora pra academia!
+- 📚 Chama nos estudos!
+- 📈 Motivação!
+- 🌐 Animes <3
 
 <h1 align='center'>Base de conhecimentos 📚</h1>
 <img align='right' src="https://media.giphy.com/media/H48YKEw3fXrcvIF2xE/giphy.gif"/>
@@ -52,8 +52,8 @@
 <br>
 <div align='center'>
   <a href="https://github.com/williansoncini"> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=williansoncini&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williansoncini&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=williansoncini"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williansoncini"/>
 </div> 
 
 <div align='center'>
