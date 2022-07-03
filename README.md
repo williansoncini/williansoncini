@@ -3,7 +3,10 @@
 
 
 <h1 align='center'>Sobre mim 💬</h1>
-<img align='right' height=150 src="https://media.giphy.com/media/aNeyXVMrED6fUO1Exy/giphy.gif" alt="Happy luffy"/>
+
+<p align='center'>
+  <img width="250" src="https://media.giphy.com/media/aNeyXVMrED6fUO1Exy/giphy.gif" alt="Happy luffy"/>
+</p>
 
 - 🐈 Adoro animais!
 - 🥦 Go vegan!
@@ -14,7 +17,10 @@
 - 🌐 Animes <3
 
 <h1 align='center'>Base de conhecimentos 📚</h1>
-<img align='right' src="https://media.giphy.com/media/H48YKEw3fXrcvIF2xE/giphy.gif"/>
+
+<p align='center'>
+  <img width="250" src="https://media.giphy.com/media/H48YKEw3fXrcvIF2xE/giphy.gif"/>
+</p>
 
 - 👾 - Linux 
   - 💻 - Shell
